@@ -152,7 +152,7 @@ button {
 @media screen AND (min-width:600px) {
     main {
         display: flex;
-        width: 80%;
+        width: 60%;
         justify-content: center;
         align-items: center;
         border-radius: 1rem;
